@@ -6,3 +6,12 @@ Notes :
 	Est-ce que je devrais refacto jusqu'a ce que je me reapproprie le code?
 	Ou est-ce que je devrais apprendre a lire et code comme ca?
 	(je penche pour la premiere option, mais peut etre que je me trompe)
+
+	optional challenges at end of pages seems interesting to understand and actually use wgpu!
+	do i do them now?
+Bonus:
+	☐ optionnal challenge 1: background color react to mouse position (windowEvent?)
+	☐ optionnal challenge 2: color of triangle react to spacebar press (VertexOutput, second pipeline)
+Future:
+	☐ try to refacto and extract methods from current code
+	☐ reformat similar actions to at least look the same way
